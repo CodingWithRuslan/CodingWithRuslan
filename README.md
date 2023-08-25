@@ -31,16 +31,6 @@ My name is Ruslan a proud holder of a B.Sc in Software Engineering.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodingWithRuslan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithRuslan&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodingWithRuslan&theme=alduin&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CodingWithRuslan&limit=5&theme=alduin&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=CodingWithRuslan&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
