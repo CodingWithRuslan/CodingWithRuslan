@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+### Hi there 👋<!--
 **CodingWithRuslan/CodingWithRuslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hello there! 👋
@@ -56,4 +54,6 @@ My name is Ruslan a passionate backend developer and a proud holder of a B.Sc. i
 [![](https://visitcount.itsvg.in/api?id=CodingWithRuslan&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
