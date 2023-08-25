@@ -1,5 +1,4 @@
-### Hi there 👋<!--
-**CodingWithRuslan/CodingWithRuslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 
 My name is Ruslan a passionate backend developer and a proud holder of a B.Sc in Software Engineering.
 ## 🎓 About Me
 
