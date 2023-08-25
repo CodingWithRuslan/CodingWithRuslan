@@ -1,5 +1,5 @@
 ### Hi there 
-My name is Ruslan a passionate backend developer and a proud holder of a B.Sc in Software Engineering.
+My name is Ruslan a proud holder of a B.Sc in Software Engineering.
 ## 🎓 About Me
 
 - **Education:** B.Sc. in Software Engineering,
