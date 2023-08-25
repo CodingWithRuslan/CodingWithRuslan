@@ -6,7 +6,7 @@ My name is Ruslan a passionate backend developer and a proud holder of a B.Sc in
 
 - **Skills:** [Python, JavaScript, Node.js, , RESTful APIs, Database Management (MongoDB),etc..]
 
-- **Experience:** [B.Sc. in Software Engineering]
+- **Experience:** [i have experience from my B.Sc. in Software Engineering]
 
 - **Philosophy:** "Optimizing performance, one line of code at a time."
 
