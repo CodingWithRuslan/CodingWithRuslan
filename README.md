@@ -3,7 +3,7 @@
 
 # Hello there! 👋
 
-My name is Ruslan a passionate backend developer and a proud holder of a B.Sc. in Software Engineering. With a knack for crafting scalable and robust systems, I delve deep into the intricacies of server-side operations to ensure seamless user experiences.
+My name is Ruslan a passionate backend developer and a proud holder of a B.Sc in Software Engineering.
 
 ## 🎓 About Me
 
