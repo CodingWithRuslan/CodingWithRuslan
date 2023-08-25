@@ -18,7 +18,7 @@ My name is Ruslan a proud holder of a B.Sc in Software Engineering.
   
 - **Frameworks:** [Express.js, etc.]
   
-- **Databases:** [e.g., PostgreSQL, MongoDB, Redis, etc.]
+- **Databases:** [MongoDB]
   
 ## 🤝 Connect With Me
 
