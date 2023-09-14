@@ -18,7 +18,7 @@ My name is Ruslan a proud holder of a B.Sc in Software Engineering.
   
 - **Frameworks:** [Express.js, next.js]
   
-- **Databases:** [MongoDB, plantScale]
+- **Databases:** [MongoDB, PlantScale]
   
 ## 🤝 Connect With Me
 
