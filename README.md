@@ -14,11 +14,11 @@ My name is Ruslan a proud holder of a B.Sc in Software Engineering.
 
 ## 🔧 Tools & Technologies
 
-- **Languages:** [Python, JavaScript, etc.]
+- **Languages:** [C, C++, Java, Python, JavaScript]
   
-- **Frameworks:** [Express.js, etc.]
+- **Frameworks:** [Express.js, next.js]
   
-- **Databases:** [MongoDB]
+- **Databases:** [MongoDB, plantScale]
   
 ## 🤝 Connect With Me
 
